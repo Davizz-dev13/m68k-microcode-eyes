@@ -5,7 +5,7 @@ assembly program that draws animated eyes on a 24x8 LED matrix.
 
 Academic project for Estructura de Computadores (Computer Architecture), UC3M.
 
-https://github.com/Davizz-dev13/m68k-microcode-eyes/raw/main/docs/eyes-animation.mp4
+<video src="https://raw.githubusercontent.com/Davizz-dev13/m68k-microcode-eyes/main/docs/eyes-animation.mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
 
 ## What it is
 
