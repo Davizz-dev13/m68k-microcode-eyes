@@ -5,6 +5,8 @@ assembly program that draws animated eyes on a 24x8 LED matrix.
 
 Academic project for Estructura de Computadores (Computer Architecture), UC3M.
 
+https://github.com/Davizz-dev13/m68k-microcode-eyes/raw/main/docs/eyes-animation.mp4
+
 ## What it is
 
 WepSIM lets you define your own instruction set by writing the microcode that
@@ -26,6 +28,8 @@ the same program on the RISC-V reference firmware that ships with WepSIM.
 - `eyes.s` - the assembly program: 24x8 frames stored in `.data`, an output
   loop over the LED matrix ports, and the animation sequence
   (blink, look right, look left, blink)
+- `docs/eyes-animation.mp4` - the animation rendered from the actual `.data`
+  matrices
 
 ## Cycle counts
 
